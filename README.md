@@ -1,8 +1,13 @@
 # So_long
+
 small 2D game
+
 ![Game visual](/Screenshots/Screenshot from 2022-09-26 14-40-46.png)
+
 ![Game visual](/Screenshots/Screenshot from 2022-09-26 14-40-10.png)
+
 ![Game visual](/Screenshots/Screenshot from 2022-09-26 14-40-58.png)
+
 ![Game visual](/Screenshots/Screenshot from 2022-09-26 14-40-20.png)
 
 ### Compiling
