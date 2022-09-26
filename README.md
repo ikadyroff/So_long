@@ -2,15 +2,13 @@
 
 small 2D game
 
-![image](https://user-images.githubusercontent.com/93201423/192265631-59fd06f9-a4c8-4318-bc80-d0e532915170.png)
+![image1](/Screenshots/Screenshot from 2022-09-26 14-40-46.png)
 
-![Game visual](/Screenshots/Screenshot from 2022-09-26 14-40-46.png)
+![image2](/Screenshots/Screenshot from 2022-09-26 14-40-10.png)
 
-![Game visual](/Screenshots/Screenshot from 2022-09-26 14-40-10.png)
+![image3](/Screenshots/Screenshot from 2022-09-26 14-40-58.png)
 
-![Game visual](/Screenshots/Screenshot from 2022-09-26 14-40-58.png)
-
-![Game visual](/Screenshots/Screenshot from 2022-09-26 14-40-20.png)
+![image4](/Screenshots/Screenshot from 2022-09-26 14-40-20.png)
 
 ### Compiling
 
