@@ -2,13 +2,13 @@
 
 small 2D game
 
-![image1](/Screenshots/Screenshot from 2022-09-26 14-40-46.png)
+![image1](/Screenshots/1.jpg)
 
-![image2](/Screenshots/Screenshot from 2022-09-26 14-40-10.png)
+![image2](/Screenshots/2.jpg)
 
-![image3](/Screenshots/Screenshot from 2022-09-26 14-40-58.png)
+![image3](/Screenshots/3.jpg)
 
-![image4](/Screenshots/Screenshot from 2022-09-26 14-40-20.png)
+![image4](/Screenshots/4.jpg)
 
 ### Compiling
 
